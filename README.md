@@ -6,7 +6,7 @@
 | Twitter  | [@uzura_xR](https://twitter.com/uzura_xR) |
 
 ## 職務経歴
-*2015年　4月～　2017年　4月:株式会社プープディドゥ
+*　2015年4月~2017年4月:株式会社プープディドゥ
 
 # Features
 
