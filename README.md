@@ -13,9 +13,16 @@
 * 英語
   * 簡単な英単語の読み書きができる・免税店の接客対応をしていたため簡単な会話ができる
 
-### ミドルウェア
+### 使用できるツール
 * Unity
-### Unityツールキッド（Assets)
+* Blender
+* CLIP STUDIO PAINT
+* Krita
+* Filmora
+### Unity関連の使用経験ツール
+* VFX Effect Graph
+* VFX shader Graph
+* UniVRM
 ### グラフィック
 ### サウンド
 ### その他
