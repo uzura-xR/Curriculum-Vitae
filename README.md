@@ -5,9 +5,8 @@
 | Name  | うずら  |
 | Twitter  | [@uzura_xR](https://twitter.com/uzura_xR) |
 
-# DEMO
-
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+## 職務経歴
+*2015年　4月～　2017年　4月:株式会社プープディドゥ
 
 # Features
 
