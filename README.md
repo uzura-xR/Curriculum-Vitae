@@ -24,9 +24,10 @@
 * VFX Effect Graph
 * VFX shader Graph
 * UniVRM
-### グラフィック
-### サウンド
 ### その他
+* 作成した3Dモデル：DramSet
+https://www.foriio.com/works/217359
+
 ## VR開発経験
 ### 2021年1月~3月:2021GameVketZero
 #### プロジェクト概要
