@@ -3,7 +3,7 @@
 | key | value |
 | ------------- | ------------- |
 | Name  | うずら  |
-| Twitter  | @uzura_xR  |
+| Twitter  | [@uzura_xR](https://twitter.com/uzura_xR) |
 
 # DEMO
 
