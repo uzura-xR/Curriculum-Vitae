@@ -25,9 +25,10 @@
 * VFX shader Graph
 * UniVRM
 ### その他
-* 作成した3Dモデル：DramSet
+* 自作3Dモデル：DramSet
 https://www.foriio.com/works/217359
-
+* 自作エフェクト:雷
+*
 ## VR開発経験
 ### 2021年1月~3月:2021GameVketZero
 #### プロジェクト概要
