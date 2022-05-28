@@ -93,6 +93,9 @@ VRプロフェッショナルアカデミー受講時の開発
 #### 担当内容
 * 一人ですべて作成
 #### 実績・習得スキル
+自作したScriptの一例
+・Text送りと音声を連携させて動かすためのScript　https://gist.github.com/uzura-xR/0617905284308f4f9ebb675096debad9
+
 VRフェスにて『体験デザイン賞』受賞(10期生受賞作品欄に記載/下記のリンク先の上から三段目に記載されています)
 https://vracademy.jp/introduction/
 
