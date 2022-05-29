@@ -97,6 +97,7 @@ VRプロフェッショナルアカデミー受講時の開発
 * Text送りと音声を連携させて動かすためのScript　https://gist.github.com/uzura-xR/0617905284308f4f9ebb675096debad9
 * 靴の収納を感知するためのManagerScript https://gist.github.com/uzura-xR/f61f5d0251cf47b357fd6544d2309842
 * 正しい向きに靴を収納できているかチェックするScriptの一例　https://gist.github.com/uzura-xR/561211554fee38e803336f394b2f2424
+* 靴が両足箱に入り正解だった場合、正解音を鳴らして次のステージに進ませるためのScript　https://gist.github.com/uzura-xR/e34aa9ff22e9ce792047b807aec5dc1a
 * カウントダウンのScript　https://gist.github.com/uzura-xR/602e0f6e94e9a4b8cbc32d21292dd5c3
 
 VRフェスにて『体験デザイン賞』受賞(10期生受賞作品欄に記載/下記のリンク先の上から三段目に記載されています)
