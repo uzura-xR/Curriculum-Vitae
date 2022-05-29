@@ -89,9 +89,10 @@ https://vracademy.jp/introduction/
 #### プロジェクト概要
 VRプロフェッショナルアカデミー受講時の開発
 作品名『靴検品VR』https://youtu.be/jbHwdx8v63c
+* このコンテンツは靴販売の現場や出荷作業の現場で起こりえる、靴の品番間違い、サイズ間違い、左右の入れ間違いなどを、なくすためVR学習作品です。
 
 スライド解説　https://docs.google.com/presentation/d/107JiC6fzCKkqhpK1kWMbs7MgdwBChDBDbQX8oG93J4w/edit#slide=id.gfa5a9654d4_0_643
-* このコンテンツは靴販売の現場や出荷作業の現場で起こりえる、靴の品番間違い、サイズ間違い、左右の入れ間違いなどを、なくすためVR学習作品です。
+
 #### 開発スケジュール
 * 2か月
 #### 担当内容
