@@ -29,6 +29,8 @@
 https://www.foriio.com/works/217359
 * 自作エフェクト：雷
 https://www.foriio.com/works/290066
+* ロボットシークエンス再現
+https://youtube.com/shorts/uGCmRp97qI0?feature=share
 ## VR開発経験
 ### 2021年1月~3月:2021GameVketZero
 #### プロジェクト概要
