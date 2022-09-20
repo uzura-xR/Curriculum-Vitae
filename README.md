@@ -2,7 +2,7 @@
 ## 基本情報
 | key | value |
 | ------------- | ------------- |
-| Name  | うずら  |
+| Name  | たくしー  |
 | Twitter  | [TAXI_xR](https://twitter.com/TAXI_xR) |
 
 ## スキル
